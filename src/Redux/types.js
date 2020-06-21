@@ -1,0 +1,1 @@
+export const UPLOAD_NEW_IDEA = 'UPLOAD_NEW_IDEA';
